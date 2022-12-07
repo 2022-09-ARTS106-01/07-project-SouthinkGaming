@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/MidtermProject.unity
     guid: 9f90d67aca8f143c7b569495745f305b
   - enabled: 1
-    path: Assets/Scenes/Scene 1.unity
+    path: Assets/Scenes/Survive_Agianst_the_Goblins.unity
     guid: fb49510bcc6ae0e4da9d3a04021e9327
   m_configObjects: {}
